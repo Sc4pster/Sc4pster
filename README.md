@@ -3,6 +3,8 @@
 My name is Sc4pster, and I love working in different forms of Media (mainly Video and Music) !
 Now that I'm taking some data science classes in Universtiy, I'm taking the first steps in this coding adventure :)
 
+---
+
 Incase anyone stumbles upon this,
 here's my Youtube:
 https://www.youtube.com/@cuteboyscap
