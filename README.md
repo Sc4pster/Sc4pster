@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-My name is Sc4pster, and I love working in different forms of Media (mainly Video and Music) !   
-Now that I'm taking some data science classes in Universtiy, I'm taking the first steps in this coding adventure :)   
+My name is Sc4pster, and I love working  
+in different forms of Media (mainly Video and Music) !   
+Now that I'm taking some data science  
+classes in Universtiy, I'm taking the first steps  
+in this coding adventure :)   
 
 ---
 
@@ -9,7 +12,8 @@ Incase anyone stumbles upon this,
 here's my Youtube:    
 https://www.youtube.com/@cuteboyscap    
 ^     
-it's mostly content about different adventures my friends and I get up to (german, with english subtitles(!))    
+it's mostly content about different adventures my friends and I  
+get up to (german, with english subtitles(!))    
 <!--
 **Sc4pster/Sc4pster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
